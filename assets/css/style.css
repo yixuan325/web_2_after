@@ -944,7 +944,7 @@ a:hover .overlay {
 /***********************************************************************************************/
 
 #statistic-section {
-  background: url('../images/temp/stats-bg.jpg') center top;
+  background: url('../images/temp/stats-bg.webp') center top;
   position: relative;
   text-align: center;
   padding-top: 70px;
@@ -1420,7 +1420,7 @@ ul.filter-list li:last-child a:after {
 /***********************************************************************************************/
 
 #tweet-section {
-  background: url('../images/temp/tweet-bg.jpg') center top;
+  background: url('../images/temp/tweet-bg.webp') center top;
   position: relative;
   padding: 80px 0;
 }
@@ -1766,7 +1766,7 @@ ul.details-list li:last-child {
 }
 
 .landing-hero {
-  background: url('../images/hero-bg/landing.jpg');
+  background: url('../images/hero-bg/landing.webp');
   background-size: cover;
 }
 
