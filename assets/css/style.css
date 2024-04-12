@@ -121,12 +121,8 @@ img {
   background: #e5e5e5;
 }
 
-.form-control::-moz-placeholder {
-  color: #494949;
-}
-.form-control:-ms-input-placeholder {
-  color: #494949;
-}
+.form-control::-moz-placeholder,
+.form-control:-ms-input-placeholder,
 .form-control::-webkit-input-placeholder {
   color: #494949;
 }
